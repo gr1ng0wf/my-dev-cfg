@@ -19,3 +19,6 @@ https://github.com/bluz71/vim-moonfly-colors
 - brew install lua-language-server
 - npm install -g @tailwindcss/language-server
 - npm install -g typescript typescript-language-server
+
+tmux
+theme: https://github.com/catppuccin/tmux
